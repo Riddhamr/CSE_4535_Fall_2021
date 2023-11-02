@@ -1,0 +1,12 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /home/codespace/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+  0%|          | 0/5000 [00:00<?, ?it/s]  8%|▊         | 416/5000 [00:00<00:01, 4138.04it/s] 19%|█▊        | 935/5000 [00:00<00:00, 4752.72it/s] 29%|██▊       | 1435/5000 [00:00<00:00, 4865.22it/s] 39%|███▉      | 1951/5000 [00:00<00:00, 4980.96it/s] 50%|████▉     | 2476/5000 [00:00<00:00, 5075.50it/s] 60%|██████    | 3004/5000 [00:00<00:00, 5139.79it/s] 70%|███████   | 3518/5000 [00:00<00:00, 4153.78it/s] 79%|███████▉  | 3962/5000 [00:00<00:00, 3857.00it/s] 87%|████████▋ | 4369/5000 [00:01<00:00, 3513.66it/s] 95%|█████████▍| 4738/5000 [00:01<00:00, 3449.78it/s]100%|██████████| 5000/5000 [00:01<00:00, 4071.77it/s]
+ * Serving Flask app 'run_project'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9999
+ * Running on http://172.16.5.4:9999
+Press CTRL+C to quit
+127.0.0.1 - - [02/Nov/2023 04:31:51] "GET / HTTP/1.1" 404 -
